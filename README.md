@@ -1,7 +1,7 @@
 <h1>Chatbot: Final Project for Language Technologies for Conversational Interfaces Course</h1><hr>
 This repository contains my final project. It consists of developing an inclusive chatbot called Dani, that is integrated into Telegram and capable of responding to certain commands and messages with predefined answers. This is the first version of the chatbot, but I am currently working on integrating it into other platforms such as WhatsApp and web pages.
 
-The chatbot has been created using Dialogflow and integrated into Telegram using the Telegram API. The project has been created as an example for a driving school and is designed to interact with users and provide them useful information about prices and schedules. 
+The chatbot has been created using Dialogflow and integrated into Telegram using the Telegram API. The project has been created as an example for a driving school and is designed to interact with users and provide them useful information about prices and schedules. You can ask Dani in Spanish about the pricing of both theoretical and practical classes, as well as discounts available on lesson packages. Additionally, Dani can provide information regarding the business hours.
 
 Although the chatbot is functional in Telegram, I am still working on improving its natural language processing capabilities and expanding its knowledge base to make it more efficient and effective for users.
 
@@ -15,7 +15,7 @@ Although the chatbot is functional in Telegram, I am still working on improving 
 <h1>Chatbot: Proyecto Final para el Curso de Tecnologías del Lenguaje para Interfaces Conversacionales</h1><br>
 
 Este repositorio contiene mi proyecto final para el curso de Tecnologías del Lenguaje para Interfaces Conversacionales. 
-Mi proyecto consiste en el desarrollo de un chatbot inclusivo llamado Dani, y su posterior integración en Telegram. Esta es la primera versión del chatbot, pero actualmente estoy trabajando en su integración en otras plataformas como WhatsApp y también en páginas web.
+Mi proyecto consiste en el desarrollo de un chatbot inclusivo llamado Dani, y su posterior integración en Telegram. Esta es la primera versión del chatbot, pero actualmente estoy trabajando en su integración en otras plataformas como WhatsApp y también en páginas web. Puedes preguntar a Dani acerca de precios sobre las clases teóricas y prácticas además de los bonos de descuento y los horarios de atención al cliente.
 
 He creado el chatbot con Dialogflow como ejemplo de asistente para una autoescuela y está diseñado para interactuar con los usuarios y proporcionarles información sobre precios y horarios de la empresa.
 Todavía estoy trabajando en mejorar sus flujos de conversación y sus capacidades para hacerlo más eficiente y efectivo.
